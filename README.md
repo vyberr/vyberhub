@@ -10,9 +10,19 @@
 
 #### Vyber Hub is a multitool created in Batch (CMD), JavaScript(JS), C++.
 
-## U͟p͟d͟a͟t͟e͟s͟
+## Updates
 
 ### No Current Updates Available For Download
+
+
+## About The Program
+
+#### Vyber Hub is a refined version of the original version of Vyber Hub, this program is more IP based and has alot to do with net tools.
+
+### Logging into the Program
+
+## 
+
 
 
 
